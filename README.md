@@ -39,4 +39,4 @@ Python syntax was checked during repository preparation. The full training exper
 This code belongs to the fake-news coursework identified by Lanjie Tang. Source logic is retained; documentation and dependency guidance were added for portfolio review. Virtual environments, editor files, large datasets, private reports and the unverified saved model were excluded. No new open-source licence is assigned to material whose reuse permissions have not been established.
 
 ## 中文简介
-虚假新闻检测课业，包含 TF-IDF 特征提取、KNN、逻辑回归和 SVM 实验。保留原始算法代码，并说明数据格式、运行方式与实验方法的局限。未重新训练，也未新增性能指标。
+虚假新闻检测,包含 TF-IDF 特征提取、KNN、逻辑回归和 SVM 实验。保留原始算法代码，并说明数据格式、运行方式与实验方法的局限。未重新训练，也未新增性能指标。
